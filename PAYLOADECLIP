@@ -1,1 +1,252 @@
-Vml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDEhISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1bY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITEhISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDIhISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITIhISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDMhISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITMhISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDQhISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITQhISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDUhISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITUhISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDYhISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITYhISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDchISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITchISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDghISEhR0VUIHdzczovL21vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyIEhUVFAvMS4xW2NybGZdSG9zdDogYnIuYWxleGRhdmkudGtbY3JsZl1Db25uZWN0aW9uOiBLZWVwLWFsaXZlW2NybGZdVXBncmFkZTogd3NbY3JsZl1bY3JsZl0hISEhMTA0LjE2LjU2LjYhISEhOC44LjguOCEhISE4LjguNC40ISEhISEhISE0NDMhISEhMCEhISEwISEhIWJyISEhITghISEhMSEhISEhISEhISEhIW1vYmlsaWRhZGUuY2xvdWQuY2FpeGEuZ292LmJyISEhITEyNy4wLjAuMTo3MzAwKCgoKCgoVml2bywgT2ksIENsYXJvIGUgVGltISEhIVNlcnZpZG9yIDE3ISEhIUdFVCB3c3M6Ly9tb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciBIVFRQLzEuMVtjcmxmXUhvc3Q6IGJyLmFsZXhkYXZpLnRrW2NybGZdQ29ubmVjdGlvbjogS2VlcC1hbGl2ZVtjcmxmXVVwZ3JhZGU6IHdzW2NybGZdW2NybGZdISEhITEwNC4xNi41Ni42ISEhITguOC44LjghISEhOC44LjQuNCEhISEhISEhNDQzISEhITAhISEhMCEhISFiciEhISE5ISEhITEhISEhISEhISEhISFtb2JpbGlkYWRlLmNsb3VkLmNhaXhhLmdvdi5iciEhISExMjcuMC4wLjE6NzMwMCgoKCgoIyMjIyMjU0VSVklET1IgMSEhISExKCgoKCgoU0VSVklET1IgMiEhISEyKCgoKCgoU0VSVklET1IgMyEhISEzKCgoKCgoU0VSVklET1IgNCEhISE0KCgoKCgoU0VSVklET1IgNSEhISE1KCgoKCgoU0VSVklET1IgNiEhISE2KCgoKCgoU0VSVklET1IgNyEhISE3KCgoKCgoU0VSVklET1IgOCEhISE4KCgoKCgoU0VSVklET1IgMTchISEhOSgoKCgoKCMjIyMjIzAjIyMjIyMwIyMjIyMjLS0tLS0tLS1MZlJJZm9BWkJLTVpAQEBAQEBAQEBAQEA=
+{
+  "Version": "1.0.1",
+  "ReleaseNotes": "",
+  "UrlUpdate": "https://raw.githubusercontent.com/davixnet/updatpayload/main/PAYLOADECLIP",
+  "Sms": "https://github.com/davixnet/Conecta4g_site-UrlSms",
+  "EmailFeedback": "dasou745@gmail.com",
+  "UrlContato": "https://t.me/Alexandressh",
+  "UrlTermos": "https://github.com/davixnet/Conecta4g_site-termos.html",
+  "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
+  "Udp": [
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "CONECTA4G | PLUS",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.davinetvpnfreenom.tk",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "PREMIUM 02 | PLUS",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.davinetvpnfreenom.tk",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "VIVO BR 01",
+      "FLAG": "vivo",
+      "Payload": "GET  sni://mobilidade.cloud.caixa.gov.br HTTP/1.0[lf]Host: br.davinetvpnfreenom.tk[lf]Upgrade: websocket[lf]Connection: Keep-Alive\nUser-Agent: [ua]\nReferer: [lf][lf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO - CLARO - TIM - OI",
+      "FLAG": "vivo",
+      "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.alexdavi.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM PROXY 01",
+      "FLAG": "tim",
+      "Payload": "GET  sni://mobilidade.cloud.caixa.gov.br HTTP/1.0[lf]Host: br.davinetvpnfreenom.tk[lf]Upgrade: websocket[lf]Connection: Keep-Alive\nUser-Agent: [ua]\nReferer: [lf][lf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM Vivo TLS 02",
+      "FLAG": "tim",
+      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 03",
+      "FLAG": "tim",
+      "Payload": "GET wss://m.timbancavirtual.com.br/ HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "m.timbancavirtual.com.br",
+      "TlsIP": "m.timbancavirtual.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 04",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "104.16.18.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 05",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "br.davinetvpnfreenom.tk",
+      "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM PYTHON/SOCKS 06",
+      "FLAG": "tim",
+      "Payload": "ACL HTTP/1.1[lf]Host: br.davinetvpnfreenom.tk[lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "VIVO - CLARO - TIM - OI",
+      "FLAG": "vivo",
+      "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO DIRECT",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "TIM - VIVO",
+      "FLAG": "tim",
+      "Payload": "GET wss://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk [crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] GET [host_port][protocol][crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.18.94",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "CLARO SEM PROMOÇÃO",
+      "FLAG": "claro",
+      "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "OI - VIVO",
+      "FLAG": "oi",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS 01",
+      "FLAG": "claro",
+      "Payload": "GET sni://parceirosclaro.com.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "parceirosclaro.com.br",
+      "TlsIP": "parceirosclaro.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS 02",
+      "FLAG": "claro",
+      "Payload": "GET sni://parceirosclaro.com.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "parceirosclaro.com.br",
+      "TlsIP": "parceirosclaro.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS 03",
+      "FLAG": "claro",
+      "Payload": "GET sni://parceirosclaro.com.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "parceirosclaro.com.br",
+      "TlsIP": "parceirosclaro.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS 04",
+      "FLAG": "claro",
+      "Payload": "GET sni://parceirosclaro.com.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "parceirosclaro.com.br",
+      "TlsIP": "parceirosclaro.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS 05",
+      "FLAG": "claro",
+      "Payload": "GET sni://parceirosclaro.com.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "parceirosclaro.com.br",
+      "TlsIP": "parceirosclaro.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "OI DIRECT 01",
+      "FLAG": "oi",
+      "Payload": "GET / HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "direct"
+    },
+    {
+      "Name": "OI TLS 02",
+      "FLAG": "oi",
+      "Payload": "GET ssl://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][crlf]Connection: Upgrade[crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    }
+  ]
+}
