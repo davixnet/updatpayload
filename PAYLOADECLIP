@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/davixnet/updatpayload/main/PAYLOADECLIP",
   "Sms": "https://github.com/davixnet/Conecta4g_site-UrlSms",
@@ -38,14 +38,14 @@
     },
     {
       "Name": "PREMIUM 02 | PLUS",
-      "TYPE": "free",
+      "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br.davinetvpnfreenom.tk",
       "CheckUser": "http://168.138.145.149:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "davi",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
