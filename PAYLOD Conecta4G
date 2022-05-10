@@ -1,0 +1,103 @@
+{
+  "Version": "1.0.4",
+  "ReleaseNotes": "",
+  "UrlUpdate": "https://raw.githubusercontent.com/davixnet/updatpayload/main/PAYLOADECLIP",
+  "Sms": "https://github.com/davixnet/Conecta4g_site-UrlSms",
+  "EmailFeedback": "dasou745@gmail.com",
+  "UrlContato": "https://t.me/Alexandressh",
+  "UrlTermos": "https://github.com/davixnet/Conecta4g_site-termos.html",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "CONECTA4G | PLUS",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.davinetvpnfreenom.tk",
+      "CheckUser": "http://168.138.145.149:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "PREMIUM 02 | PLUS",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.davinetvpnfreenom.tk",
+      "CheckUser": "http://168.138.145.149:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "VIVO SSLPAY",
+      "FLAG": "vivo",
+      "Payload": "GET sni://cadastro.vivo.com.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "cadastro.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO SEM PROMOÇÃO",
+      "FLAG": "claro",
+      "Payload": "GET sni://no.descomplica.com.br HTTP/1.1[crlf]Host: br.baronnetssl.online[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "no.descomplica.com.br",
+      "TlsIP": "no.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM DIRECT",
+      "FLAG": "tim",
+      "Payload": "GET wss://emartim.com.br/ HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.133.83",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM SEM PROMOÇÃO",
+      "FLAG": "tim",
+      "Payload": "GET sni://emartim.com.br HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]X-Forward-Host: br.davinetvpnfreenom.tk[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "emartim.com.br",
+      "TlsIP": "emartim.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO DIRECT",
+      "FLAG": "vivo",
+      "Payload": "GET wss://cadastro.vivo.com.br/ HTTP/1.1[crlf]Host: br.davinetvpnfreenom.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
+}
