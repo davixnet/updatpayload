@@ -7,30 +7,14 @@
   "UrlContato": "https://t.me/Alexandressh",
   "UrlTermos": "https://github.com/davixnet/Conecta4g_site-termos.html",
   "CheckUser": "true",
-  "Udp": [
-    {
-      "Porta": "7300"
-    },
-    {
-      "Porta": "7400"
-    },
-    {
-      "Porta": "7500"
-    },
-    {
-      "Porta": "7600"
-    },
-    {
-      "Porta": "7700"
-    }
-  ],
+  "UdpPort": "7300",
   "Servers": [
     {
       "Name": "CONECTA4G | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br.davinetvpnfreenom.tk",
-      "CheckUser": "http://140.238.178.237:5454/checkUser",
+      "ServerIP": "br.davinet.online",
+      "CheckUser": "http://54.82.99.95:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -40,8 +24,8 @@
       "Name": "PREMIUM 02 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br.davinetvpnfreenom.tk",
-      "CheckUser": "http://140.238.178.237:5454/checkUser",
+      "ServerIP": "br.davinet.online",
+      "CheckUser": "http://54.82.99.95:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
