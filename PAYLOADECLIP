@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/davixnet/updatpayload/main/PAYLOADECLIP",
   "Sms": "https://github.com/davixnet/Conecta4g_site-UrlSms",
@@ -7,7 +7,23 @@
   "UrlContato": "https://t.me/Alexandressh",
   "UrlTermos": "https://github.com/davixnet/Conecta4g_site-termos.html",
   "CheckUser": "true",
-  "UdpPort": "7300",
+  "Udp": [
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    }
+  ],
   "Servers": [
     {
       "Name": "CONECTA4G | PLUS",
